@@ -5,7 +5,7 @@ const About = () => {
   return (
     <div>
       <h1>About</h1>
-      <p>Saiba mais sobre nós nesta página.</p> {/* Informações sobre a página */}
+      <p>Find out more about us on this page.</p> {/* Informações sobre a página */}
     </div>
   );
 }

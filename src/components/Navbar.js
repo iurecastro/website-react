@@ -7,7 +7,7 @@ const NavigationBar = () => {
   return (
     <Navbar bg="light" expand="lg"> {/* Componente Navbar do Bootstrap */}
       <Container> {/* Container para centralizar o conteúdo */}
-        <Navbar.Brand as={Link} to="/">Meu Site</Navbar.Brand> {/* Nome do site que também é um link para a página inicial */}
+        <Navbar.Brand as={Link} to="/">Website</Navbar.Brand> {/* Nome do site que também é um link para a página inicial */}
         <Navbar.Toggle aria-controls="basic-navbar-nav" /> {/* Botão para expandir/colapsar o menu em telas pequenas */}
         <Navbar.Collapse id="basic-navbar-nav"> {/* Contêiner que agrupa os itens de navegação */}
           <Nav className="me-auto"> {/* Grupo de links de navegação */}

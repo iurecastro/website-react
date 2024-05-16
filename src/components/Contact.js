@@ -5,7 +5,7 @@ const Contact = () => {
   return (
     <div>
       <h1>Contact</h1>
-      <p>Entre em contato conosco.</p> {/* Informações de contato */}
+      <p>Contact us.</p> {/* Informações de contato */}
     </div>
   );
 }
