@@ -2,6 +2,14 @@
 Web site React js + bootstrap 5 
 This is a sample project of a basic website using React.js and Bootstrap 5. It includes a navigation bar with links to different pages and a dropdown menu.
 
+## Demo
+
+[Live Demo](https://iurecastro.github.io/website-react/) 
+
+## Screenshots
+
+![Website App Screenshot](https://github.com/iurecastro/website-react/blob/main/public/print.png) 
+
 ## Overview
 
 - **Framework:** React.js
